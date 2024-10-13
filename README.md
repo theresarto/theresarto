@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I discovered coding late in 2023 while trying to find solutions to make my day job easier as an eCommerce marketing/sales manager
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/theresarto)
+![Leetcode Stats](https://leetcard.jacoblin.cool/theresarto?theme=nord)
 
 <!---
 theresarto/theresarto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
