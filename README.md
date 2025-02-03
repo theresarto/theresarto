@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **backend software developmen
 
 ## 🚀 About Me
 
-- **👩‍💻 Career Journey**: I discovered coding while working as an eCommerce marketing and sales manager, seeking to automate repetitive tasks and improve business processes. Since then, I've developed a deep interest in programming and problem-solving.
+- **👩‍💻 Career Journey**: I discovered coding while working as an eCommerce business operations and marketing manager, seeking to automate repetitive tasks and improve business processes. Since then, I've developed a deep interest in programming and problem-solving.
 - **🎯 Interests**: Backend development, automation, and building tools to enhance the retail experience.
 - **🌱 Currently Learning**:  
   - Python (Intermediate-Advanced with a focus on backend development)  
