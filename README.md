@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I'm passionate about **backend software developmen
 
 ## About Me
 
-- **Career Journey**: I discovered coding while working as an eCommerce strategic business oeprations manager. I find ways to make plans happen, and solve bottlenecks where I feel it could be improved. I love automation and cutting down time spent in doing mundane things. I'm also a business economics major, worked in marketing, am a licensed landscape architect (🙃), and an overall logical thinker that likes putting small details together to form a clearer big picture.
+- **Career Journey**: I discovered coding while working as an eCommerce strategic business oeprations manager. I find ways to make plans happen, and solve bottlenecks where I feel it could be improved. I love automation and cutting down time spent in doing mundane things.
+
+I'm almost done with my MSc Computer Science degree. I finished business economics in my undergrad, worked in marketing and strategic ops, am a licensed landscape architect (and also a Master's degree holder for landscape architecture 🙃), and an overall logical thinker that likes putting small details together to form a clearer big picture.
 
 ## Current Project: Project Meta TaskWave
 
