@@ -1,30 +1,31 @@
 # 👋 Hi, I’m Theresa (@theresarto)
 
-Welcome to my GitHub profile! I'm passionate about **backend software development** and **process automation**, with a focus on creating solutions that streamline workflows and enhance user experiences. Here's a bit about me:
+I’m passionate about backend software development and process automation, creating solutions that streamline workflows and improve efficiency.
 
 ## About Me
 
-- **Career Journey**: I discovered coding while working as an eCommerce strategic business oeprations manager. I find ways to make plans happen, and solve bottlenecks where I feel it could be improved. I love automation and cutting down time spent in doing mundane things.
+I started coding while working as an eCommerce strategic operations manager, where I automated repetitive processes and solved operational bottlenecks.
 
-- I'm almost done with my MSc Computer Science degree. I finished business economics in my undergrad, worked in marketing and strategic ops, am a licensed landscape architect (and also a Master's degree holder for landscape architecture 🙃), and an overall logical thinker that likes putting small details together to form a clearer big picture.
+I’m now completing my MSc in Computer Science (with a background in business economics and landscape architecture), blending analytical thinking with technical problem-solving.
 
 ## Current Project: Project Meta TaskWave
 
-I’m currently developing Meta Taskwave, a **rigorous serverless FaaS simulation platform** designed to benchmark diverse invocation patterns and analyse how scheduling algorithms affect system-wide processing times. While we deal with black box systems with AWS Lambda, Microsoft Azure, and Google Cloud, my aim is to unearth all that using literature-backed research on how a serverless FaaS system is built.
+A transparent benchmarking framework for evaluating hybrid scheduling strategies in Function-as-a-Service (FaaS) environments, providing systematic insights into algorithm performance trade-offs.
 
-This project includes:
-- Building a custom client-server architecture using low-level socket programming for job dispatch and coordination
--Implementing a hybrid scheduling framework with 15 algorithm combinations, spanning both job selection and worker allocation strategies
-- Creating a thorough benchmarking process that allowed me to collect 5-10 trials across 15 algorithms under three different workload types
-- Statistical evaluation and testing using CV, ANOVA, Chi-Square Testing, Cramer's V, Standardised Residuals, and Churn Analysis to assess algorithm influence over serverless systems.
-- Integrating machine learning techniques to adaptively tune parameters based on changing job and worker characteristics in homogeneous environments
+**Key features:**
+- **Hybrid scheduling evaluation:** 15 algorithm combinations (3 job-side × 5 worker-side) with systematic performance analysis
+- **Thermal efficiency metric:** Novel performance measurement approach for FaaS workload characterisation
+- **Comprehensive benchmarking:** 109,568+ jobs analysed across multiple workload intensities with statistical validation
+- **Research-backed insights:** Container lifecycle dominance identified, worker algorithm significance quantified (Cramér's V = 0.33)
+- **Open-source foundation:** Reproducible methodology for meta-scheduling research and adaptive algorithm selection
+- **Performance transparency:** Statistical analysis revealing 98% of variation attributed to penalty patterns, not algorithm choice
 
-Meta Taskwave reflects my commitment to building practical, research-driven solutions that enhance system efficiency, adaptability, and scalability. I’m excited to keep pushing its capabilities forward.
+Meta TaskWave demonstrates that systematic evaluation beats black-box optimisation, providing the foundation for future adaptive meta-scheduling through transparent algorithm selection based on workload characteristics.
 
-## Things I've done for fun that are not on GitHub
-- Create a Python program that runs through the EU Cosmetic Regulation 1223/2009 Annexes and parses against client ingredients lists to flag any restricted or banned ingredients. This is a one of a kind client offering I've developed to ensure full UK and EU compliancy on all our imports.
-- Created a Python program that feeds eBay and Amazon sales data for my eCommerce business and turns it into a unified profit-loss data sheet.
-- Created a web scraping application that speeds up listing repetitive restocks by providing invoices from the business suppliers.
+## Other Projects (Highlights)
+-	EU Cosmetic Regulation Parser – Flags restricted/banned ingredients in client product lists for full UK/EU compliance
+-	eCommerce Data Integrator – Combines eBay & Amazon sales into a unified profit–loss dashboard
+-	Supplier Web Scraper – Automates invoice generation for restock listings
 
 ## Let's Connect!
 - **Email**: theresarto@gmail.com  
