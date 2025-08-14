@@ -8,7 +8,7 @@ I started coding while working as an eCommerce strategic operations manager, whe
 
 I’m now completing my MSc in Computer Science (with a background in business economics and landscape architecture), blending analytical thinking with technical problem-solving.
 
-## Current Project: Project Meta TaskWave
+## MSc Project Highlight: Project Meta TaskWave
 
 A transparent benchmarking framework for evaluating hybrid scheduling strategies in Function-as-a-Service (FaaS) environments, providing systematic insights into algorithm performance trade-offs.
 
