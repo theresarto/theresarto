@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Theresa (@theresarto)
 
-I’m passionate about backend software development and process automation, creating solutions that streamline workflows and improve efficiency.
+I’m passionate about backend software development and process automation, **building solutions that streamline workflows** and drive measurable results. With a foundation in **business strategy** and **data analytics**, I bridge the gap between technical delivery and strategic growth, creating systems that are both efficient and impactful.
 
 ## About Me
 
