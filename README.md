@@ -6,7 +6,7 @@ I’m passionate about backend software development and process automation, **bu
 
 I started coding while working as an eCommerce strategic operations manager, where I automated repetitive processes and solved operational bottlenecks.
 
-I’m now completing my MSc in Computer Science (with a background in business economics and landscape architecture), blending analytical thinking with technical problem-solving.
+I’m now completing my MSc in Computer Science (with a background in business economics and urban planning), blending analytical thinking with technical problem-solving.
 
 ## MSc Project Highlight: Project Meta TaskWave
 
