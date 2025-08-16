@@ -22,7 +22,7 @@ A transparent benchmarking framework for evaluating hybrid scheduling strategies
 
 Meta TaskWave demonstrates that systematic evaluation beats black-box optimisation, providing the foundation for future adaptive meta-scheduling through transparent algorithm selection based on workload characteristics.
 
-## Other Projects (Highlights)
+## Other Proprietary Projects
 -	EU Cosmetic Regulation Parser – Flags restricted/banned ingredients in client product lists for full UK/EU compliance
 -	eCommerce Data Integrator – Combines eBay & Amazon sales into a unified profit–loss dashboard
 -	Supplier Web Scraper – Automates invoice generation for restock listings
